@@ -15,8 +15,23 @@ The code has the following structure
 
     1.3 Process substrate - converting to 1 and 0 for acidic and non-acidic soils and expanding to 100 km buffer, assigning random acidity there
 
-    1.4 Prepare the vegetation file with trees - 
+    1.4 Preparing the vegetation file with trees - adding GLC2000 tree classes to 100km buffer of CAVM
+
+    1.5 Combining substrate, bioclimatic variables and vegetation data in the final dataset for RF classification and prediction 
 
 2. Classification using Random Forest
 
-3.
+    2a Training RF on substrate and bioclimatic variables to classify CAVM vegetation 
+    
+    2b The same on the larger area with 100km buffer with trees
+
+3. Prediction using Random Forest
+
+    3a making prediction for 6 datasets (3 climate models, 2 emission scenarios)
+    
+    3b prediction for CAVM area only - which we use as an input in restricted scenarios
+    
+ 4. Restricted tree dispersal scenarios
+ 
+    4 combining predictions made in 3a and 3b for restricted tree scenarios (5 km and 20 km disperal).
+    
