@@ -14,6 +14,9 @@ https://arcticatlas.geobotany.org/catalog/dataset/circumpolar-arctic-substrate-c
 * 19 bioclimatic variables for the 3 climate models (EC-Earth3-Veg, IPSL-CM6A-LR, MRI-ESM2-0) and SSPs 126 and 585 scenarios from 2041 to 2060 on 30sec resolution 
 https://www.worldclim.org/data/cmip6/cmip6_clim30s.html#2041-2060
 
+* GLC2000 land cover dataset
+https://forobs.jrc.ec.europa.eu/products/glc2000/glc2000.php
+
 * Final predictions and data for the data analysis part
 ---link to the data repository---
 
