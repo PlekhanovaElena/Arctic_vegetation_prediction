@@ -1,6 +1,24 @@
 # Arctic vegetation prediction and refugia analysis
 Predicting how Actic vegetation will look in 2050 based on CAVM and CMIP6 climate data based on Pearson et. al. (2013) methodology.
 
+
+### Data
+Before running the code, please download the 
+
+* CAVM rasterfile
+https://data.mendeley.com/datasets/c4xj5rv6kv/1
+
+* Substrate CAVM shapefile
+https://arcticatlas.geobotany.org/catalog/dataset/circumpolar-arctic-substrate-chemistry
+
+* 19 bioclimatic variables for the 3 climate models and SSPs 126 and 585 scenarios from 2041 to 2060 on 30sec resolution
+https://www.worldclim.org/data/cmip6/cmip6_clim30s.html#2041-2060
+
+* Final predictions and data for the data analysis part
+---link to the data repository---
+
+
+### Code
 The code has the following structure
 
 1. Preparing predictors
