@@ -5,7 +5,7 @@ The code has the following structure
 
 1. Preparing predictors
 
-  1.0 Cropping bioclimate variables to the Arctic extent - above 60 latitude
+    1.0 Cropping bioclimate variables to the Arctic extent - above 60 latitude
 
   1.1a Masking bioclimate variables with CAVM
 
