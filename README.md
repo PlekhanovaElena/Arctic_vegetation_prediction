@@ -1,5 +1,5 @@
 # Arctic vegetation prediction and refugia analysis
-Predicting how Actic vegetation will look in 2050 based on CAVM and CMIP6 climate data based on Pearson et. al. (2013) methodology.
+Predicting how Arctic vegetation will look in 2050 based on CAVM and CMIP6 climate data based on Pearson et. al. (2013) methodology.
 
 
 ### Data
@@ -17,9 +17,11 @@ https://www.worldclim.org/data/cmip6/cmip6_clim30s.html#2041-2060
 * GLC2000 land cover dataset
 https://forobs.jrc.ec.europa.eu/products/glc2000/glc2000.php
 
-* Final predictions and data for the data analysis part
----link to the data repository---
+* Final predictions and data for the data analysis part:
+https://doi.org/10.5281/zenodo.6902764 [available upon publication]
 
+* For detailed methods describing the analysis part:
+https://www.biorxiv.org/content/10.1101/2021.04.28.441764v1 [post-print link to follow]
 
 ### Code
 The code has the following structure
