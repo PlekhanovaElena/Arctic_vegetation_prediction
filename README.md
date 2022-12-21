@@ -18,7 +18,7 @@ https://www.worldclim.org/data/cmip6/cmip6_clim30s.html#2041-2060
 https://forobs.jrc.ec.europa.eu/products/glc2000/glc2000.php
 
 * Final predictions and data for the data analysis part:
-https://doi.org/10.5281/zenodo.6902764 [available upon publication]
+https://doi.org/10.5281/zenodo.6902764
 
 * For detailed methods describing the analysis part:
 https://www.biorxiv.org/content/10.1101/2021.04.28.441764v1 [post-print link to follow]
