@@ -63,8 +63,8 @@ The code has the following structure
     4 combining predictions made in 3a and 3b for restricted tree scenarios (5 km and 20 km disperal).
     
  5. Analysis and figures
- 
-    1 using the results of the zonal histogram (see paper methods) to calculate 
+
+    5.0 using the results of the zonal histogram (see paper methods) to calculate 
         a) abundance of vegetation types in the present circumpolar Arctic, within and outside of protected areas
         b) abundance of vegetation types in the future predictions of the circumpolar Arctic, within and outside of protected areas
         c) classify the vulnerability of Arctic vegetation types using the Red List of Ecosystems Criteria
