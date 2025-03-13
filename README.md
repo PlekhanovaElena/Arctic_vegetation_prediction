@@ -1,7 +1,7 @@
 # Arctic vegetation prediction and refugia analysis
 Predicting how Arctic vegetation will look in 2050 based on CAVM and CMIP6 climate data based on Pearson et. al. (2013) methodology. This is code for the paper
 
-M. R. Chacko, J. Oehri, E. Plekhanova, G. Schaepman-Strub
+M. Reji Chacko, J. Oehri, E. Plekhanova, G. Schaepman-Strub
 **Will current protected areas harbor refugia for threatened Arctic vegetation types until 2050? A first assessment** (2023) *Arctic, Antarctic, and Alpine Research*
 [https://doi.org/10.1080/15230430.2023.2203478](https://doi.org/10.1080/15230430.2023.2203478)
 
